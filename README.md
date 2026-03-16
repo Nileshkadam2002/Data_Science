@@ -2,7 +2,7 @@
 
 This repository is a collection of essential Python scripts and notebooks focused on core programming logic and data science basics. It serves as a study guide for technical interviews and a foundation for data analysis projects.
 
----
+----
 
 ### 📚 Featured Content
 
